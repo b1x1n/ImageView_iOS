@@ -1,3 +1,3 @@
 #Probando ImagenView en iOS
 
-![Sin titulo](ImageView/Screen.png)
+![Sin titulo](Screen.png)
